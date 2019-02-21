@@ -1,4 +1,5 @@
-#Description
+Description
+--
 
 Public Repository Of Agroconscious
 
@@ -8,7 +9,8 @@ The goal of Agroconscious is to teach people about ways to make money from agric
 
 Maintained url is [Agroconscious](areahints.github.io/agroconscious) 
 
-#About Areahints
+About Areahints
+--
 
 The brainchild of a lot of online resources, notably eDX, Udacity and the World Bank Open Learning Campus. Our target market is small and medium businesses, entrepreneurs, students and you.
  
@@ -16,7 +18,8 @@ We believe that every idea has the capacity to mature into the business of your 
 
 We develop Websites, design logos, implement SEO, PPC, social media marketing, email marketing, We automate work-flows to enable our clients more flexibility to handle the most important aspects of their business, which is making profits.
 
-#Services
+Services
+--
 
 + Web/App Development
 + Logos and Branding
@@ -24,7 +27,8 @@ We develop Websites, design logos, implement SEO, PPC, social media marketing, e
 + Tutorials and Webinars
 
 
-#Contact Details
+Contact Details
+--
 
 + www.areahints.com
 + social@areahints.com
