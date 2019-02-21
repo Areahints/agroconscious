@@ -28,4 +28,4 @@ We develop Websites, design logos, implement SEO, PPC, social media marketing, e
 
 + www.areahints.com
 + social@areahints.com
-+ [Instagram](instagram.com/areahintsng) | [Facebook](facebook.com/areahintsng) | [Twitter](twitter.com/areahintsng) | [Whatsapp ](tel:+2349096484348)
++ [Instagram](instagram.com/areahintsng) | [Facebook](facebook.com/areahintsng) | [Twitter](twitter.com/areahintsng) | [Whatsapp](tel:+2349096484348)
