@@ -7,7 +7,7 @@ Agroconscious is a blog focused on farming and agricultural news in Nigeria.
 
 The goal of Agroconscious is to teach people about ways to make money from agriculture in Nigeria.
 
-Maintained url is [Agroconscious](areahints.github.io/agroconscious) 
+Maintained url is [Agroconscious](www.areahints.github.io/agroconscious) 
 
 About Areahints
 --
